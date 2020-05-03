@@ -16,11 +16,10 @@ Go to your desired directory on your machine and open GitBash.Then,run the follo
 ```
 git clone https://github.com/amanjaiswal30/login_signup_page_using_react.js.git
 ```
-Open the cloned repository in Code editor and go to the terminal and type
+Open the cloned repository in Code editor and go to the terminal and type the following command.This will install all the necessary packages required for the project.
 ```
 npm i
 ```
-This will install all the necessary packages required for the project.
 Run the server by using the following command
 ```
 npm start
